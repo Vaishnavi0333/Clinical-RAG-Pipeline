@@ -1,0 +1,9 @@
+langchain
+langchain-nvidia-ai-endpoints
+langchain-community
+langchain-experimental
+langchain-core
+faiss-cpu
+pypdf
+pandas
+sqlalchemy
